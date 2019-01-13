@@ -1,0 +1,30 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/diamond_leggings"
+	},
+	"overrides": [
+		{ "predicate": { "damaged": 0, "damage": 0.0020161290322580645 }, "model": "item/diamond_leggings/1" },
+		{ "predicate": { "damaged": 0, "damage": 0.004032258064516129 }, "model": "item/diamond_leggings/2" },
+		{ "predicate": { "damaged": 0, "damage": 0.006048387096774193 }, "model": "item/diamond_leggings/3" },
+		{ "predicate": { "damaged": 0, "damage": 0.008064516129032258 }, "model": "item/diamond_leggings/4" },
+		{ "predicate": { "damaged": 0, "damage": 0.010080645161290322 }, "model": "item/diamond_leggings/5" },
+		{ "predicate": { "damaged": 0, "damage": 0.012096774193548387 }, "model": "item/diamond_leggings/6" },
+		{ "predicate": { "damaged": 0, "damage": 0.014112903225806451 }, "model": "item/diamond_leggings/7" },
+		{ "predicate": { "damaged": 0, "damage": 0.016129032258064516 }, "model": "item/diamond_leggings/8" },
+		{ "predicate": { "damaged": 0, "damage": 0.018145161290322582 }, "model": "item/diamond_leggings/9" },
+		{ "predicate": { "damaged": 0, "damage": 0.020161290322580645 }, "model": "item/diamond_leggings/10" },
+		{ "predicate": { "damaged": 0, "damage": 0.02217741935483871 }, "model": "item/diamond_leggings/11" },
+		{ "predicate": { "damaged": 0, "damage": 0.024193548387096774 }, "model": "item/diamond_leggings/12" },
+		{ "predicate": { "damaged": 0, "damage": 0.02620967741935484 }, "model": "item/diamond_leggings/13" },
+		{ "predicate": { "damaged": 0, "damage": 0.028225806451612902 }, "model": "item/diamond_leggings/14" },
+		{ "predicate": { "damaged": 0, "damage": 0.03024193548387097 }, "model": "item/diamond_leggings/15" },
+		{ "predicate": { "damaged": 0, "damage": 0.03225806451612903 }, "model": "item/diamond_leggings/16" },
+		{ "predicate": { "damaged": 0, "damage": 0.034274193548387094 }, "model": "item/diamond_leggings/17" },
+		{ "predicate": { "damaged": 0, "damage": 0.036290322580645164 }, "model": "item/diamond_leggings/18" },
+		{ "predicate": { "damaged": 0, "damage": 0.038306451612903226 }, "model": "item/diamond_leggings/19" },
+		{ "predicate": { "damaged": 0, "damage": 0.04032258064516129 }, "model": "item/diamond_leggings/20" },
+		{ "predicate": { "damaged": 0, "damage": 0.04233870967741935 }, "model": "item/diamond_leggings" },
+		{ "predicate": { "damaged": 1, "damage": 0}, "model": "item/diamond_leggings"}
+	]
+}

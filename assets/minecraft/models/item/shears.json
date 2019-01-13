@@ -1,0 +1,30 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/shears"
+	},
+	"overrides": [
+		{ "predicate": { "damaged": 0, "damage": 0.004201680672268907 }, "model": "item/shears/1" },
+		{ "predicate": { "damaged": 0, "damage": 0.008403361344537815 }, "model": "item/shears/2" },
+		{ "predicate": { "damaged": 0, "damage": 0.012605042016806723 }, "model": "item/shears/3" },
+		{ "predicate": { "damaged": 0, "damage": 0.01680672268907563 }, "model": "item/shears/4" },
+		{ "predicate": { "damaged": 0, "damage": 0.02100840336134454 }, "model": "item/shears/5" },
+		{ "predicate": { "damaged": 0, "damage": 0.025210084033613446 }, "model": "item/shears/6" },
+		{ "predicate": { "damaged": 0, "damage": 0.029411764705882353 }, "model": "item/shears/7" },
+		{ "predicate": { "damaged": 0, "damage": 0.03361344537815126 }, "model": "item/shears/8" },
+		{ "predicate": { "damaged": 0, "damage": 0.037815126050420166 }, "model": "item/shears/9" },
+		{ "predicate": { "damaged": 0, "damage": 0.04201680672268908 }, "model": "item/shears/10" },
+		{ "predicate": { "damaged": 0, "damage": 0.046218487394957986 }, "model": "item/shears/11" },
+		{ "predicate": { "damaged": 0, "damage": 0.05042016806722689 }, "model": "item/shears/12" },
+		{ "predicate": { "damaged": 0, "damage": 0.0546218487394958 }, "model": "item/shears/13" },
+		{ "predicate": { "damaged": 0, "damage": 0.058823529411764705 }, "model": "item/shears/14" },
+		{ "predicate": { "damaged": 0, "damage": 0.06302521008403361 }, "model": "item/shears/15" },
+		{ "predicate": { "damaged": 0, "damage": 0.06722689075630252 }, "model": "item/shears/16" },
+		{ "predicate": { "damaged": 0, "damage": 0.07142857142857142 }, "model": "item/shears/17" },
+		{ "predicate": { "damaged": 0, "damage": 0.07563025210084033 }, "model": "item/shears/18" },
+		{ "predicate": { "damaged": 0, "damage": 0.07983193277310924 }, "model": "item/shears/19" },
+		{ "predicate": { "damaged": 0, "damage": 0.08403361344537816 }, "model": "item/shears/20" },
+		{ "predicate": { "damaged": 0, "damage": 0.08823529411764706 }, "model": "item/shears" },
+		{ "predicate": { "damaged": 1, "damage": 0}, "model": "item/shears"}
+	]
+}

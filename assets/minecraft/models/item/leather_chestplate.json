@@ -1,0 +1,31 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/leather_chestplate",
+        "layer1": "item/leather_chestplate_overlay"
+	},
+	"overrides": [
+		{ "predicate": { "damaged": 0, "damage": 0.012345679012345678 }, "model": "item/leather_chestplate/1" },
+		{ "predicate": { "damaged": 0, "damage": 0.024691358024691357 }, "model": "item/leather_chestplate/2" },
+		{ "predicate": { "damaged": 0, "damage": 0.037037037037037035 }, "model": "item/leather_chestplate/3" },
+		{ "predicate": { "damaged": 0, "damage": 0.04938271604938271 }, "model": "item/leather_chestplate/4" },
+		{ "predicate": { "damaged": 0, "damage": 0.06172839506172839 }, "model": "item/leather_chestplate/5" },
+		{ "predicate": { "damaged": 0, "damage": 0.07407407407407407 }, "model": "item/leather_chestplate/6" },
+		{ "predicate": { "damaged": 0, "damage": 0.08641975308641975 }, "model": "item/leather_chestplate/7" },
+		{ "predicate": { "damaged": 0, "damage": 0.09876543209876543 }, "model": "item/leather_chestplate/8" },
+		{ "predicate": { "damaged": 0, "damage": 0.1111111111111111 }, "model": "item/leather_chestplate/9" },
+		{ "predicate": { "damaged": 0, "damage": 0.12345679012345678 }, "model": "item/leather_chestplate/10" },
+		{ "predicate": { "damaged": 0, "damage": 0.13580246913580246 }, "model": "item/leather_chestplate/11" },
+		{ "predicate": { "damaged": 0, "damage": 0.14814814814814814 }, "model": "item/leather_chestplate/12" },
+		{ "predicate": { "damaged": 0, "damage": 0.16049382716049382 }, "model": "item/leather_chestplate/13" },
+		{ "predicate": { "damaged": 0, "damage": 0.1728395061728395 }, "model": "item/leather_chestplate/14" },
+		{ "predicate": { "damaged": 0, "damage": 0.18518518518518517 }, "model": "item/leather_chestplate/15" },
+		{ "predicate": { "damaged": 0, "damage": 0.19753086419753085 }, "model": "item/leather_chestplate/16" },
+		{ "predicate": { "damaged": 0, "damage": 0.20987654320987653 }, "model": "item/leather_chestplate/17" },
+		{ "predicate": { "damaged": 0, "damage": 0.2222222222222222 }, "model": "item/leather_chestplate/18" },
+		{ "predicate": { "damaged": 0, "damage": 0.2345679012345679 }, "model": "item/leather_chestplate/19" },
+		{ "predicate": { "damaged": 0, "damage": 0.24691358024691357 }, "model": "item/leather_chestplate/20" },
+		{ "predicate": { "damaged": 0, "damage": 0.25925925925925924 }, "model": "item/leather_chestplate" },
+		{ "predicate": { "damaged": 1, "damage": 0}, "model": "item/leather_chestplate"}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/leather_leggings",
+        "layer1": "item/leather_leggings_overlay"
+	},
+	"overrides": [
+		{ "predicate": { "damaged": 0, "damage": 0.013157894736842105 }, "model": "item/leather_leggings/1" },
+		{ "predicate": { "damaged": 0, "damage": 0.02631578947368421 }, "model": "item/leather_leggings/2" },
+		{ "predicate": { "damaged": 0, "damage": 0.039473684210526314 }, "model": "item/leather_leggings/3" },
+		{ "predicate": { "damaged": 0, "damage": 0.05263157894736842 }, "model": "item/leather_leggings/4" },
+		{ "predicate": { "damaged": 0, "damage": 0.06578947368421052 }, "model": "item/leather_leggings/5" },
+		{ "predicate": { "damaged": 0, "damage": 0.07894736842105263 }, "model": "item/leather_leggings/6" },
+		{ "predicate": { "damaged": 0, "damage": 0.09210526315789473 }, "model": "item/leather_leggings/7" },
+		{ "predicate": { "damaged": 0, "damage": 0.10526315789473684 }, "model": "item/leather_leggings/8" },
+		{ "predicate": { "damaged": 0, "damage": 0.11842105263157894 }, "model": "item/leather_leggings/9" },
+		{ "predicate": { "damaged": 0, "damage": 0.13157894736842105 }, "model": "item/leather_leggings/10" },
+		{ "predicate": { "damaged": 0, "damage": 0.14473684210526316 }, "model": "item/leather_leggings/11" },
+		{ "predicate": { "damaged": 0, "damage": 0.15789473684210525 }, "model": "item/leather_leggings/12" },
+		{ "predicate": { "damaged": 0, "damage": 0.17105263157894737 }, "model": "item/leather_leggings/13" },
+		{ "predicate": { "damaged": 0, "damage": 0.18421052631578946 }, "model": "item/leather_leggings/14" },
+		{ "predicate": { "damaged": 0, "damage": 0.19736842105263158 }, "model": "item/leather_leggings/15" },
+		{ "predicate": { "damaged": 0, "damage": 0.21052631578947367 }, "model": "item/leather_leggings/16" },
+		{ "predicate": { "damaged": 0, "damage": 0.2236842105263158 }, "model": "item/leather_leggings/17" },
+		{ "predicate": { "damaged": 0, "damage": 0.23684210526315788 }, "model": "item/leather_leggings/18" },
+		{ "predicate": { "damaged": 0, "damage": 0.25 }, "model": "item/leather_leggings/19" },
+		{ "predicate": { "damaged": 0, "damage": 0.2631578947368421 }, "model": "item/leather_leggings/20" },
+		{ "predicate": { "damaged": 0, "damage": 0.27631578947368424 }, "model": "item/leather_leggings" },
+		{ "predicate": { "damaged": 1, "damage": 0}, "model": "item/leather_leggings"}
+	]
+}

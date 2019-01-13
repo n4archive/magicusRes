@@ -1,0 +1,30 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/chainmail_chestplate"
+	},
+	"overrides": [
+		{ "predicate": { "damaged": 0, "damage": 0.004149377593360996 }, "model": "item/chainmail_chestplate/1" },
+		{ "predicate": { "damaged": 0, "damage": 0.008298755186721992 }, "model": "item/chainmail_chestplate/2" },
+		{ "predicate": { "damaged": 0, "damage": 0.012448132780082987 }, "model": "item/chainmail_chestplate/3" },
+		{ "predicate": { "damaged": 0, "damage": 0.016597510373443983 }, "model": "item/chainmail_chestplate/4" },
+		{ "predicate": { "damaged": 0, "damage": 0.02074688796680498 }, "model": "item/chainmail_chestplate/5" },
+		{ "predicate": { "damaged": 0, "damage": 0.024896265560165973 }, "model": "item/chainmail_chestplate/6" },
+		{ "predicate": { "damaged": 0, "damage": 0.029045643153526972 }, "model": "item/chainmail_chestplate/7" },
+		{ "predicate": { "damaged": 0, "damage": 0.03319502074688797 }, "model": "item/chainmail_chestplate/8" },
+		{ "predicate": { "damaged": 0, "damage": 0.03734439834024896 }, "model": "item/chainmail_chestplate/9" },
+		{ "predicate": { "damaged": 0, "damage": 0.04149377593360996 }, "model": "item/chainmail_chestplate/10" },
+		{ "predicate": { "damaged": 0, "damage": 0.04564315352697095 }, "model": "item/chainmail_chestplate/11" },
+		{ "predicate": { "damaged": 0, "damage": 0.04979253112033195 }, "model": "item/chainmail_chestplate/12" },
+		{ "predicate": { "damaged": 0, "damage": 0.05394190871369295 }, "model": "item/chainmail_chestplate/13" },
+		{ "predicate": { "damaged": 0, "damage": 0.058091286307053944 }, "model": "item/chainmail_chestplate/14" },
+		{ "predicate": { "damaged": 0, "damage": 0.06224066390041494 }, "model": "item/chainmail_chestplate/15" },
+		{ "predicate": { "damaged": 0, "damage": 0.06639004149377593 }, "model": "item/chainmail_chestplate/16" },
+		{ "predicate": { "damaged": 0, "damage": 0.07053941908713693 }, "model": "item/chainmail_chestplate/17" },
+		{ "predicate": { "damaged": 0, "damage": 0.07468879668049792 }, "model": "item/chainmail_chestplate/18" },
+		{ "predicate": { "damaged": 0, "damage": 0.07883817427385892 }, "model": "item/chainmail_chestplate/19" },
+		{ "predicate": { "damaged": 0, "damage": 0.08298755186721991 }, "model": "item/chainmail_chestplate/20" },
+		{ "predicate": { "damaged": 0, "damage": 0.08713692946058091 }, "model": "item/chainmail_chestplate" },
+		{ "predicate": { "damaged": 1, "damage": 0}, "model": "item/chainmail_chestplate"}
+	]
+}

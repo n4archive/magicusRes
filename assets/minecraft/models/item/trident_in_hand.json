@@ -1,0 +1,89 @@
+{
+	"parent": "builtin/entity",
+	"display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, 60, 0 ],
+            "translation": [ 11, 17, -2 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 0, 60, 0 ],
+            "translation": [ 3, 17, 12 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, -90, 25 ],
+            "translation": [ -3, 17, 1],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 90, -25 ],
+            "translation": [ 13, 17, 1],
+            "scale": [ 1, 1, 1 ]
+        },
+        "gui": {
+            "rotation": [ 15, -25, -5 ],
+            "translation": [ 2, 3, 0 ],
+            "scale": [ 0.65, 0.65, 0.65 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ -2, 4, -5],
+            "scale":[ 0.5, 0.5, 0.5]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 4, 4, 2],
+            "scale":[ 0.25, 0.25, 0.25]
+        }
+    },
+	"overrides": [
+		{ "predicate": { "throwing": 1 }, "model": "item/trident_throwing"},
+	
+		{ "predicate": { "damaged": 0, "damage": 0.00398406374501992 }, "model": "item/trident_in_hand/1" },
+		{ "predicate": { "damaged": 0, "damage": 0.00796812749003984 }, "model": "item/trident_in_hand/2" },
+		{ "predicate": { "damaged": 0, "damage": 0.01195219123505976 }, "model": "item/trident_in_hand/3" },
+		{ "predicate": { "damaged": 0, "damage": 0.01593625498007968 }, "model": "item/trident_in_hand/4" },
+		{ "predicate": { "damaged": 0, "damage": 0.0199203187250996 }, "model": "item/trident_in_hand/5" },
+		{ "predicate": { "damaged": 0, "damage": 0.02390438247011952 }, "model": "item/trident_in_hand/6" },
+		{ "predicate": { "damaged": 0, "damage": 0.027888446215139442 }, "model": "item/trident_in_hand/7" },
+		{ "predicate": { "damaged": 0, "damage": 0.03187250996015936 }, "model": "item/trident_in_hand/8" },
+		{ "predicate": { "damaged": 0, "damage": 0.035856573705179286 }, "model": "item/trident_in_hand/9" },
+		{ "predicate": { "damaged": 0, "damage": 0.0398406374501992 }, "model": "item/trident_in_hand/10" },
+		{ "predicate": { "damaged": 0, "damage": 0.043824701195219126 }, "model": "item/trident_in_hand/11" },
+		{ "predicate": { "damaged": 0, "damage": 0.04780876494023904 }, "model": "item/trident_in_hand/12" },
+		{ "predicate": { "damaged": 0, "damage": 0.05179282868525897 }, "model": "item/trident_in_hand/13" },
+		{ "predicate": { "damaged": 0, "damage": 0.055776892430278883 }, "model": "item/trident_in_hand/14" },
+		{ "predicate": { "damaged": 0, "damage": 0.05976095617529881 }, "model": "item/trident_in_hand/15" },
+		{ "predicate": { "damaged": 0, "damage": 0.06374501992031872 }, "model": "item/trident_in_hand/16" },
+		{ "predicate": { "damaged": 0, "damage": 0.06772908366533864 }, "model": "item/trident_in_hand/17" },
+		{ "predicate": { "damaged": 0, "damage": 0.07171314741035857 }, "model": "item/trident_in_hand/18" },
+		{ "predicate": { "damaged": 0, "damage": 0.07569721115537849 }, "model": "item/trident_in_hand/19" },
+		{ "predicate": { "damaged": 0, "damage": 0.0796812749003984 }, "model": "item/trident_in_hand/20" },
+		{ "predicate": { "damaged": 0, "damage": 0.08366533864541832 }, "model": "item/trident_in_hand" },
+
+		{ "predicate": { "throwing": 1, "damaged": 0, "damage": 0.00398406374501992 }, "model": "item/trident_throwing/1" },
+		{ "predicate": { "throwing": 1, "damaged": 0, "damage": 0.00796812749003984 }, "model": "item/trident_throwing/2" },
+		{ "predicate": { "throwing": 1, "damaged": 0, "damage": 0.01195219123505976 }, "model": "item/trident_throwing/3" },
+		{ "predicate": { "throwing": 1, "damaged": 0, "damage": 0.01593625498007968 }, "model": "item/trident_throwing/4" },
+		{ "predicate": { "throwing": 1, "damaged": 0, "damage": 0.0199203187250996 }, "model": "item/trident_throwing/5" },
+		{ "predicate": { "throwing": 1, "damaged": 0, "damage": 0.02390438247011952 }, "model": "item/trident_throwing/6" },
+		{ "predicate": { "throwing": 1, "damaged": 0, "damage": 0.027888446215139442 }, "model": "item/trident_throwing/7" },
+		{ "predicate": { "throwing": 1, "damaged": 0, "damage": 0.03187250996015936 }, "model": "item/trident_throwing/8" },
+		{ "predicate": { "throwing": 1, "damaged": 0, "damage": 0.035856573705179286 }, "model": "item/trident_throwing/9" },
+		{ "predicate": { "throwing": 1, "damaged": 0, "damage": 0.0398406374501992 }, "model": "item/trident_throwing/10" },
+		{ "predicate": { "throwing": 1, "damaged": 0, "damage": 0.043824701195219126 }, "model": "item/trident_throwing/11" },
+		{ "predicate": { "throwing": 1, "damaged": 0, "damage": 0.04780876494023904 }, "model": "item/trident_throwing/12" },
+		{ "predicate": { "throwing": 1, "damaged": 0, "damage": 0.05179282868525897 }, "model": "item/trident_throwing/13" },
+		{ "predicate": { "throwing": 1, "damaged": 0, "damage": 0.055776892430278883 }, "model": "item/trident_throwing/14" },
+		{ "predicate": { "throwing": 1, "damaged": 0, "damage": 0.05976095617529881 }, "model": "item/trident_throwing/15" },
+		{ "predicate": { "throwing": 1, "damaged": 0, "damage": 0.06374501992031872 }, "model": "item/trident_throwing/16" },
+		{ "predicate": { "throwing": 1, "damaged": 0, "damage": 0.06772908366533864 }, "model": "item/trident_throwing/17" },
+		{ "predicate": { "throwing": 1, "damaged": 0, "damage": 0.07171314741035857 }, "model": "item/trident_throwing/18" },
+		{ "predicate": { "throwing": 1, "damaged": 0, "damage": 0.07569721115537849 }, "model": "item/trident_throwing/19" },
+		{ "predicate": { "throwing": 1, "damaged": 0, "damage": 0.0796812749003984 }, "model": "item/trident_throwing/20" },
+		{ "predicate": { "throwing": 1, "damaged": 0, "damage": 0.08366533864541832 }, "model": "item/trident_throwing" },
+		{ "predicate": { "damaged": 1, "damage": 0}, "model": "item/trident_in_hand"},
+		{ "predicate": { "throwing": 1, "damaged": 1, "damage": 0 }, "model": "item/trident_throwing"}
+	]
+}

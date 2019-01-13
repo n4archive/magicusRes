@@ -1,0 +1,30 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/turtle_helmet"
+    },
+	"overrides": [
+		{ "predicate": { "damaged": 0, "damage": 0.0036231884057971015 }, "model": "item/turtle_helmet/1" },
+		{ "predicate": { "damaged": 0, "damage": 0.007246376811594203 }, "model": "item/turtle_helmet/2" },
+		{ "predicate": { "damaged": 0, "damage": 0.010869565217391304 }, "model": "item/turtle_helmet/3" },
+		{ "predicate": { "damaged": 0, "damage": 0.014492753623188406 }, "model": "item/turtle_helmet/4" },
+		{ "predicate": { "damaged": 0, "damage": 0.018115942028985508 }, "model": "item/turtle_helmet/5" },
+		{ "predicate": { "damaged": 0, "damage": 0.021739130434782608 }, "model": "item/turtle_helmet/6" },
+		{ "predicate": { "damaged": 0, "damage": 0.025362318840579712 }, "model": "item/turtle_helmet/7" },
+		{ "predicate": { "damaged": 0, "damage": 0.028985507246376812 }, "model": "item/turtle_helmet/8" },
+		{ "predicate": { "damaged": 0, "damage": 0.03260869565217391 }, "model": "item/turtle_helmet/9" },
+		{ "predicate": { "damaged": 0, "damage": 0.036231884057971016 }, "model": "item/turtle_helmet/10" },
+		{ "predicate": { "damaged": 0, "damage": 0.03985507246376811 }, "model": "item/turtle_helmet/11" },
+		{ "predicate": { "damaged": 0, "damage": 0.043478260869565216 }, "model": "item/turtle_helmet/12" },
+		{ "predicate": { "damaged": 0, "damage": 0.04710144927536232 }, "model": "item/turtle_helmet/13" },
+		{ "predicate": { "damaged": 0, "damage": 0.050724637681159424 }, "model": "item/turtle_helmet/14" },
+		{ "predicate": { "damaged": 0, "damage": 0.05434782608695652 }, "model": "item/turtle_helmet/15" },
+		{ "predicate": { "damaged": 0, "damage": 0.057971014492753624 }, "model": "item/turtle_helmet/16" },
+		{ "predicate": { "damaged": 0, "damage": 0.06159420289855073 }, "model": "item/turtle_helmet/17" },
+		{ "predicate": { "damaged": 0, "damage": 0.06521739130434782 }, "model": "item/turtle_helmet/18" },
+		{ "predicate": { "damaged": 0, "damage": 0.06884057971014493 }, "model": "item/turtle_helmet/19" },
+		{ "predicate": { "damaged": 0, "damage": 0.07246376811594203 }, "model": "item/turtle_helmet/20" },
+		{ "predicate": { "damaged": 0, "damage": 0.07608695652173914 }, "model": "item/turtle_helmet" },
+		{ "predicate": { "damaged": 1, "damage": 0}, "model": "item/turtle_helmet"}
+	]
+}

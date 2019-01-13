@@ -1,0 +1,30 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/elytra"
+	},
+	"overrides": [
+		{ "predicate": { "damaged": 0, "damage": 0.0023094688221709007 }, "model": "item/elytra/1" },
+		{ "predicate": { "damaged": 0, "damage": 0.004618937644341801 }, "model": "item/elytra/2" },
+		{ "predicate": { "damaged": 0, "damage": 0.006928406466512702 }, "model": "item/elytra/3" },
+		{ "predicate": { "damaged": 0, "damage": 0.009237875288683603 }, "model": "item/elytra/4" },
+		{ "predicate": { "damaged": 0, "damage": 0.011547344110854504 }, "model": "item/elytra/5" },
+		{ "predicate": { "damaged": 0, "damage": 0.013856812933025405 }, "model": "item/elytra/6" },
+		{ "predicate": { "damaged": 0, "damage": 0.016166281755196306 }, "model": "item/elytra/7" },
+		{ "predicate": { "damaged": 0, "damage": 0.018475750577367205 }, "model": "item/elytra/8" },
+		{ "predicate": { "damaged": 0, "damage": 0.020785219399538105 }, "model": "item/elytra/9" },
+		{ "predicate": { "damaged": 0, "damage": 0.023094688221709007 }, "model": "item/elytra/10" },
+		{ "predicate": { "damaged": 0, "damage": 0.025404157043879907 }, "model": "item/elytra/11" },
+		{ "predicate": { "damaged": 0, "damage": 0.02771362586605081 }, "model": "item/elytra/12" },
+		{ "predicate": { "damaged": 0, "damage": 0.03002309468822171 }, "model": "item/elytra/13" },
+		{ "predicate": { "damaged": 0, "damage": 0.03233256351039261 }, "model": "item/elytra/14" },
+		{ "predicate": { "damaged": 0, "damage": 0.03464203233256351 }, "model": "item/elytra/15" },
+		{ "predicate": { "damaged": 0, "damage": 0.03695150115473441 }, "model": "item/elytra/16" },
+		{ "predicate": { "damaged": 0, "damage": 0.03926096997690531 }, "model": "item/elytra/17" },
+		{ "predicate": { "damaged": 0, "damage": 0.04157043879907621 }, "model": "item/elytra/18" },
+		{ "predicate": { "damaged": 0, "damage": 0.04387990762124711 }, "model": "item/elytra/19" },
+		{ "predicate": { "damaged": 0, "damage": 0.046189376443418015 }, "model": "item/elytra/20" },
+		{ "predicate": { "damaged": 0, "damage": 0.04849884526558892 }, "model": "item/elytra" },
+		{ "predicate": { "damaged": 1, "damage": 0}, "model": "item/elytra"}
+	]
+}

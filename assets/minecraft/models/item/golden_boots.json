@@ -1,0 +1,30 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/golden_boots"
+	},
+	"overrides": [
+		{ "predicate": { "damaged": 0, "damage": 0.010869565217391304 }, "model": "item/golden_boots/1" },
+		{ "predicate": { "damaged": 0, "damage": 0.021739130434782608 }, "model": "item/golden_boots/2" },
+		{ "predicate": { "damaged": 0, "damage": 0.03260869565217391 }, "model": "item/golden_boots/3" },
+		{ "predicate": { "damaged": 0, "damage": 0.043478260869565216 }, "model": "item/golden_boots/4" },
+		{ "predicate": { "damaged": 0, "damage": 0.05434782608695652 }, "model": "item/golden_boots/5" },
+		{ "predicate": { "damaged": 0, "damage": 0.06521739130434782 }, "model": "item/golden_boots/6" },
+		{ "predicate": { "damaged": 0, "damage": 0.07608695652173914 }, "model": "item/golden_boots/7" },
+		{ "predicate": { "damaged": 0, "damage": 0.08695652173913043 }, "model": "item/golden_boots/8" },
+		{ "predicate": { "damaged": 0, "damage": 0.09782608695652174 }, "model": "item/golden_boots/9" },
+		{ "predicate": { "damaged": 0, "damage": 0.10869565217391304 }, "model": "item/golden_boots/10" },
+		{ "predicate": { "damaged": 0, "damage": 0.11956521739130435 }, "model": "item/golden_boots/11" },
+		{ "predicate": { "damaged": 0, "damage": 0.13043478260869565 }, "model": "item/golden_boots/12" },
+		{ "predicate": { "damaged": 0, "damage": 0.14130434782608695 }, "model": "item/golden_boots/13" },
+		{ "predicate": { "damaged": 0, "damage": 0.15217391304347827 }, "model": "item/golden_boots/14" },
+		{ "predicate": { "damaged": 0, "damage": 0.16304347826086957 }, "model": "item/golden_boots/15" },
+		{ "predicate": { "damaged": 0, "damage": 0.17391304347826086 }, "model": "item/golden_boots/16" },
+		{ "predicate": { "damaged": 0, "damage": 0.18478260869565216 }, "model": "item/golden_boots/17" },
+		{ "predicate": { "damaged": 0, "damage": 0.1956521739130435 }, "model": "item/golden_boots/18" },
+		{ "predicate": { "damaged": 0, "damage": 0.20652173913043478 }, "model": "item/golden_boots/19" },
+		{ "predicate": { "damaged": 0, "damage": 0.21739130434782608 }, "model": "item/golden_boots/20" },
+		{ "predicate": { "damaged": 0, "damage": 0.22826086956521738 }, "model": "item/golden_boots" },
+		{ "predicate": { "damaged": 1, "damage": 0}, "model": "item/golden_boots"}
+	]
+}

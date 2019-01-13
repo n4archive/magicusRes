@@ -1,0 +1,30 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/flint_and_steel"
+	},
+	"overrides": [
+		{ "predicate": { "damaged": 0, "damage": 0.015384615384615385 }, "model": "item/flint_and_steel/1" },
+		{ "predicate": { "damaged": 0, "damage": 0.03076923076923077 }, "model": "item/flint_and_steel/2" },
+		{ "predicate": { "damaged": 0, "damage": 0.046153846153846156 }, "model": "item/flint_and_steel/3" },
+		{ "predicate": { "damaged": 0, "damage": 0.06153846153846154 }, "model": "item/flint_and_steel/4" },
+		{ "predicate": { "damaged": 0, "damage": 0.07692307692307693 }, "model": "item/flint_and_steel/5" },
+		{ "predicate": { "damaged": 0, "damage": 0.09230769230769231 }, "model": "item/flint_and_steel/6" },
+		{ "predicate": { "damaged": 0, "damage": 0.1076923076923077 }, "model": "item/flint_and_steel/7" },
+		{ "predicate": { "damaged": 0, "damage": 0.12307692307692308 }, "model": "item/flint_and_steel/8" },
+		{ "predicate": { "damaged": 0, "damage": 0.13846153846153847 }, "model": "item/flint_and_steel/9" },
+		{ "predicate": { "damaged": 0, "damage": 0.15384615384615385 }, "model": "item/flint_and_steel/10" },
+		{ "predicate": { "damaged": 0, "damage": 0.16923076923076924 }, "model": "item/flint_and_steel/11" },
+		{ "predicate": { "damaged": 0, "damage": 0.18461538461538463 }, "model": "item/flint_and_steel/12" },
+		{ "predicate": { "damaged": 0, "damage": 0.2 }, "model": "item/flint_and_steel/13" },
+		{ "predicate": { "damaged": 0, "damage": 0.2153846153846154 }, "model": "item/flint_and_steel/14" },
+		{ "predicate": { "damaged": 0, "damage": 0.23076923076923078 }, "model": "item/flint_and_steel/15" },
+		{ "predicate": { "damaged": 0, "damage": 0.24615384615384617 }, "model": "item/flint_and_steel/16" },
+		{ "predicate": { "damaged": 0, "damage": 0.26153846153846155 }, "model": "item/flint_and_steel/17" },
+		{ "predicate": { "damaged": 0, "damage": 0.27692307692307694 }, "model": "item/flint_and_steel/18" },
+		{ "predicate": { "damaged": 0, "damage": 0.2923076923076923 }, "model": "item/flint_and_steel/19" },
+		{ "predicate": { "damaged": 0, "damage": 0.3076923076923077 }, "model": "item/flint_and_steel/20" },
+		{ "predicate": { "damaged": 0, "damage": 0.3230769230769231 }, "model": "item/flint_and_steel" },
+		{ "predicate": { "damaged": 1, "damage": 0}, "model": "item/flint_and_steel"}
+	]
+}

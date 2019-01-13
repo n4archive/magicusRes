@@ -1,0 +1,30 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/golden_chestplate"
+	},
+	"overrides": [
+		{ "predicate": { "damaged": 0, "damage": 0.008849557522123894 }, "model": "item/golden_chestplate/1" },
+		{ "predicate": { "damaged": 0, "damage": 0.017699115044247787 }, "model": "item/golden_chestplate/2" },
+		{ "predicate": { "damaged": 0, "damage": 0.02654867256637168 }, "model": "item/golden_chestplate/3" },
+		{ "predicate": { "damaged": 0, "damage": 0.035398230088495575 }, "model": "item/golden_chestplate/4" },
+		{ "predicate": { "damaged": 0, "damage": 0.04424778761061947 }, "model": "item/golden_chestplate/5" },
+		{ "predicate": { "damaged": 0, "damage": 0.05309734513274336 }, "model": "item/golden_chestplate/6" },
+		{ "predicate": { "damaged": 0, "damage": 0.061946902654867256 }, "model": "item/golden_chestplate/7" },
+		{ "predicate": { "damaged": 0, "damage": 0.07079646017699115 }, "model": "item/golden_chestplate/8" },
+		{ "predicate": { "damaged": 0, "damage": 0.07964601769911504 }, "model": "item/golden_chestplate/9" },
+		{ "predicate": { "damaged": 0, "damage": 0.08849557522123894 }, "model": "item/golden_chestplate/10" },
+		{ "predicate": { "damaged": 0, "damage": 0.09734513274336283 }, "model": "item/golden_chestplate/11" },
+		{ "predicate": { "damaged": 0, "damage": 0.10619469026548672 }, "model": "item/golden_chestplate/12" },
+		{ "predicate": { "damaged": 0, "damage": 0.11504424778761062 }, "model": "item/golden_chestplate/13" },
+		{ "predicate": { "damaged": 0, "damage": 0.12389380530973451 }, "model": "item/golden_chestplate/14" },
+		{ "predicate": { "damaged": 0, "damage": 0.13274336283185842 }, "model": "item/golden_chestplate/15" },
+		{ "predicate": { "damaged": 0, "damage": 0.1415929203539823 }, "model": "item/golden_chestplate/16" },
+		{ "predicate": { "damaged": 0, "damage": 0.1504424778761062 }, "model": "item/golden_chestplate/17" },
+		{ "predicate": { "damaged": 0, "damage": 0.1592920353982301 }, "model": "item/golden_chestplate/18" },
+		{ "predicate": { "damaged": 0, "damage": 0.168141592920354 }, "model": "item/golden_chestplate/19" },
+		{ "predicate": { "damaged": 0, "damage": 0.17699115044247787 }, "model": "item/golden_chestplate/20" },
+		{ "predicate": { "damaged": 0, "damage": 0.18584070796460178 }, "model": "item/golden_chestplate" },
+		{ "predicate": { "damaged": 1, "damage": 0}, "model": "item/golden_chestplate"}
+	]
+}

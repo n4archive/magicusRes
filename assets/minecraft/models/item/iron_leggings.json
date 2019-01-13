@@ -1,0 +1,30 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/iron_leggings"
+	},
+	"overrides": [
+		{ "predicate": { "damaged": 0, "damage": 0.004424778761061947 }, "model": "item/iron_leggings/1" },
+		{ "predicate": { "damaged": 0, "damage": 0.008849557522123894 }, "model": "item/iron_leggings/2" },
+		{ "predicate": { "damaged": 0, "damage": 0.01327433628318584 }, "model": "item/iron_leggings/3" },
+		{ "predicate": { "damaged": 0, "damage": 0.017699115044247787 }, "model": "item/iron_leggings/4" },
+		{ "predicate": { "damaged": 0, "damage": 0.022123893805309734 }, "model": "item/iron_leggings/5" },
+		{ "predicate": { "damaged": 0, "damage": 0.02654867256637168 }, "model": "item/iron_leggings/6" },
+		{ "predicate": { "damaged": 0, "damage": 0.030973451327433628 }, "model": "item/iron_leggings/7" },
+		{ "predicate": { "damaged": 0, "damage": 0.035398230088495575 }, "model": "item/iron_leggings/8" },
+		{ "predicate": { "damaged": 0, "damage": 0.03982300884955752 }, "model": "item/iron_leggings/9" },
+		{ "predicate": { "damaged": 0, "damage": 0.04424778761061947 }, "model": "item/iron_leggings/10" },
+		{ "predicate": { "damaged": 0, "damage": 0.048672566371681415 }, "model": "item/iron_leggings/11" },
+		{ "predicate": { "damaged": 0, "damage": 0.05309734513274336 }, "model": "item/iron_leggings/12" },
+		{ "predicate": { "damaged": 0, "damage": 0.05752212389380531 }, "model": "item/iron_leggings/13" },
+		{ "predicate": { "damaged": 0, "damage": 0.061946902654867256 }, "model": "item/iron_leggings/14" },
+		{ "predicate": { "damaged": 0, "damage": 0.06637168141592921 }, "model": "item/iron_leggings/15" },
+		{ "predicate": { "damaged": 0, "damage": 0.07079646017699115 }, "model": "item/iron_leggings/16" },
+		{ "predicate": { "damaged": 0, "damage": 0.0752212389380531 }, "model": "item/iron_leggings/17" },
+		{ "predicate": { "damaged": 0, "damage": 0.07964601769911504 }, "model": "item/iron_leggings/18" },
+		{ "predicate": { "damaged": 0, "damage": 0.084070796460177 }, "model": "item/iron_leggings/19" },
+		{ "predicate": { "damaged": 0, "damage": 0.08849557522123894 }, "model": "item/iron_leggings/20" },
+		{ "predicate": { "damaged": 0, "damage": 0.09292035398230089 }, "model": "item/iron_leggings" },
+		{ "predicate": { "damaged": 1, "damage": 0}, "model": "item/iron_leggings"}
+	]
+}

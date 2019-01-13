@@ -1,0 +1,31 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/leather_helmet",
+        "layer1": "item/leather_helmet_overlay"
+	},
+	"overrides": [
+		{ "predicate": { "damaged": 0, "damage": 0.017857142857142856 }, "model": "item/leather_helmet/1" },
+		{ "predicate": { "damaged": 0, "damage": 0.03571428571428571 }, "model": "item/leather_helmet/2" },
+		{ "predicate": { "damaged": 0, "damage": 0.05357142857142857 }, "model": "item/leather_helmet/3" },
+		{ "predicate": { "damaged": 0, "damage": 0.07142857142857142 }, "model": "item/leather_helmet/4" },
+		{ "predicate": { "damaged": 0, "damage": 0.08928571428571429 }, "model": "item/leather_helmet/5" },
+		{ "predicate": { "damaged": 0, "damage": 0.10714285714285714 }, "model": "item/leather_helmet/6" },
+		{ "predicate": { "damaged": 0, "damage": 0.125 }, "model": "item/leather_helmet/7" },
+		{ "predicate": { "damaged": 0, "damage": 0.14285714285714285 }, "model": "item/leather_helmet/8" },
+		{ "predicate": { "damaged": 0, "damage": 0.16071428571428573 }, "model": "item/leather_helmet/9" },
+		{ "predicate": { "damaged": 0, "damage": 0.17857142857142858 }, "model": "item/leather_helmet/10" },
+		{ "predicate": { "damaged": 0, "damage": 0.19642857142857142 }, "model": "item/leather_helmet/11" },
+		{ "predicate": { "damaged": 0, "damage": 0.21428571428571427 }, "model": "item/leather_helmet/12" },
+		{ "predicate": { "damaged": 0, "damage": 0.23214285714285715 }, "model": "item/leather_helmet/13" },
+		{ "predicate": { "damaged": 0, "damage": 0.25 }, "model": "item/leather_helmet/14" },
+		{ "predicate": { "damaged": 0, "damage": 0.26785714285714285 }, "model": "item/leather_helmet/15" },
+		{ "predicate": { "damaged": 0, "damage": 0.2857142857142857 }, "model": "item/leather_helmet/16" },
+		{ "predicate": { "damaged": 0, "damage": 0.30357142857142855 }, "model": "item/leather_helmet/17" },
+		{ "predicate": { "damaged": 0, "damage": 0.32142857142857145 }, "model": "item/leather_helmet/18" },
+		{ "predicate": { "damaged": 0, "damage": 0.3392857142857143 }, "model": "item/leather_helmet/19" },
+		{ "predicate": { "damaged": 0, "damage": 0.35714285714285715 }, "model": "item/leather_helmet/20" },
+		{ "predicate": { "damaged": 0, "damage": 0.375 }, "model": "item/leather_helmet" },
+		{ "predicate": { "damaged": 1, "damage": 0}, "model": "item/leather_helmet"}
+	]
+}
